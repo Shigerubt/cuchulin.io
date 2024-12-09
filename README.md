@@ -1,4 +1,4 @@
-# [Cuchulink.io]([url](https://guitarsetgo.github.io/Cuchulink.io/))
+# [Cuchulink.io](https://guitarsetgo.github.io/Cuchulink.io/)
 
 ## Intro
 
